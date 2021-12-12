@@ -30,7 +30,7 @@ Base url is he url prefix for every endpoint. **Base Url is "/drones/api/gateway
 ```{
     "serialNumber":"{{$randomUUID}}",
     "weight": 500
-}```
+}
 
 #### Sample respone
 ```{
@@ -44,4 +44,4 @@ Base url is he url prefix for every endpoint. **Base Url is "/drones/api/gateway
         "batteryCapacity": 100,
         "state": "IDLE"
     }
-}```
+}
