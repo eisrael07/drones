@@ -8,7 +8,7 @@ import lombok.Data;
 
 /**
  *
- * @author Emmanuel W. Israel <emmanuel.israel@imalipay.com>
+ * @author Emmanuel W. Israel <israelecricket@gmail.com>
  */
 @Data
 public class ResponseDTO {

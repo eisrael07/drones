@@ -9,7 +9,7 @@ import com.google.gson.Gson;
 
 /**
  *
- * @author Emmanuel W. Israel <emmanuel.israel@imalipay.com>
+ * @author Emmanuel W. Israel <israelecricket@gmail.com>
  */
 public class StatusMessages {
     

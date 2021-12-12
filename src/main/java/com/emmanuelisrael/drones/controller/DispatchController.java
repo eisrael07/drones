@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  *
- * @author Emmanuel W. Israel <emmanuel.israel@imalipay.com>
+ * @author Emmanuel W. Israel <israelecricket@gmail.com>
  */
 @RestController
 @RequestMapping("/drones/api/gateway")

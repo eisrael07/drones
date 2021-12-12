@@ -9,7 +9,7 @@ import com.emmanuelisrael.drones.payload.LoadingDTO;
 
 /**
  *
- * @author Emmanuel W. Israel <emmanuel.israel@imalipay.com>
+ * @author Emmanuel W. Israel <israelecricket@gmail.com>
  */
 public interface ApiService {
 

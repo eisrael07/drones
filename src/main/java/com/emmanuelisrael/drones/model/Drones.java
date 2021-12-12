@@ -17,7 +17,7 @@ import lombok.NoArgsConstructor;
 
 /**
  *
- * @author Emmanuel W. Israel <emmanuel.israel@imalipay.com>
+ * @author Emmanuel W. Israel <israelecricket@gmail.com>
  */
 @Entity
 @Table(name = "drones")

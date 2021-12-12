@@ -32,7 +32,7 @@ import org.springframework.stereotype.Service;
 
 /**
  *
- * @author Emmanuel W. Israel <emmanuel.israel@imalipay.com>
+ * @author Emmanuel W. Israel <israelecricket@gmail.com>
  */
 @Service
 public class ApiServiceImpl implements ApiService {

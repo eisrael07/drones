@@ -93,13 +93,4 @@ public class AppConfig {
         bean.setValidationMessageSource(messageSource());
         return bean;
     }
-
-//    @Bean
-//    public SpringLiquibase liquibase() {
-//        SpringLiquibase liquibase = new SpringLiquibase();
-//        liquibase.setChangeLog("classpath:/db/changelog/changelog-master.yml");
-//        liquibase.setDataSource(dataSource());
-//        liquibase.setBeanName("Liquibase");
-//        return liquibase;
-//    }
 }
