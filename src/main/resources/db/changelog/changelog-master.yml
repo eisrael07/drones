@@ -1,0 +1,13 @@
+## YAML Template.
+---
+#databaseChangeLog:
+#  - changeSet:
+#      id: initData
+#      author: emmanuel.israel
+#      changes:
+#      - sqlFile:
+#          dbms: h2
+#          path: data.sql
+#          relativeToChangelogFile: true
+#          splitStatements: true
+#          stripComments: true
