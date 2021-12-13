@@ -5,6 +5,11 @@ A restful service that allows clients to communicate with the drones to deliver 
 
 Drones is a Jave Maven project built using the Java Spring framework. Compiled with JDK version 13. H2 is drones database engine which runs locally.
 
+To build the application. You need to have maven installed on your system, then run the command
+- mvn clean install
+
+to generate an executable jar file.
+
 ## Features
 Drones application is a restFul solution which exchange request and response data in **Json** format via **Rest API** calls. The solution has the following features:
 - registering a drone;
